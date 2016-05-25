@@ -13,6 +13,7 @@
     "support": {
         "email": "yaojinbu@163.com"
     },
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~5.0"
